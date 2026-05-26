@@ -213,5 +213,5 @@ Since I am not a mechanical physicist, I had to look for a YouTube course to lea
 
 [![Youtube course](https://img.shields.io/badge/Youtube-a84c32?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLW3FM5Kyc2_4PGkumkAHNXzWtgHhaYe1d)
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marcus-leandro-272767178)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-leandro-272767178)
 
